@@ -1,0 +1,96 @@
+[
+  {
+    "id": 12,
+    "name": "Robe Chic Moderne",
+    "price": 10000,
+    "category": "robes",
+    "images": [
+      "https://i.postimg.cc/bYT250rM/Chat-GPT-Image-2-nov-2025-22-09-05.png",
+      "https://i.postimg.cc/VsRbh95z/Chat-GPT-Image-2-nov-2025-22-19-46.png"
+    ],
+    "description": "Robe moderne et chic au style contemporain. Design élégant parfait pour toutes occasions avec un excellent rapport qualité-prix.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Noir",
+      "Blanc",
+      "Gris",
+      "Marine"
+    ],
+    "isCustom": false,
+    "sku": "RC012"
+  },
+  {
+    "id": 13,
+    "name": "Robe Élégante Bordeaux",
+    "price": 10000,
+    "category": "robes",
+    "images": [
+      "https://i.postimg.cc/RV0zVxmM/Chat-GPT-Image-4-nov-2025-13-43-05.png",
+      "https://i.postimg.cc/jdjrdYTD/Chat-GPT-Image-4-nov-2025-13-46-47.png"
+    ],
+    "description": "Magnifique robe bordeaux au design sophistiqué. Parfaite pour les occasions spéciales et les soirées élégantes.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Bordeaux",
+      "Noir",
+      "Marine"
+    ],
+    "isCustom": false,
+    "sku": "REB013"
+  },
+  {
+    "id": 14,
+    "name": "Robe Florale Romantique",
+    "price": 10000,
+    "category": "robes",
+    "images": [
+      "https://i.postimg.cc/ncNw8yhh/Chat-GPT-Image-4-nov-2025-14-07-30.png",
+      "https://i.postimg.cc/WbxfRB1z/Chat-GPT-Image-4-nov-2025-14-10-55.png"
+    ],
+    "description": "Robe aux motifs floraux délicats, idéale pour un look romantique et féminin. Coupe flatteuse et tissu de qualité.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Floral Rose",
+      "Floral Bleu",
+      "Floral Blanc"
+    ],
+    "isCustom": false,
+    "sku": "RFR014"
+  },
+  {
+    "id": 17,
+    "name": "Ensemble haut et bas",
+    "price": 10000,
+    "category": "ensembles",
+    "images": [
+      "https://i.postimg.cc/WpWjFKKY/Whats-App-Image-2025-11-05-at-18-33-53.jpg"
+    ],
+    "description": "Ensemble confortable et chic adapté au quotidien.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Noir",
+      "Beige"
+    ],
+    "isCustom": true,
+    "sku": "EHB017"
+  }
+]
